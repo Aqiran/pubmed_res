@@ -62,6 +62,6 @@ if __name__ == "__main__":
 
     # List all XML files in the specified directory
     #xml_files = [os.path.join(xml_files_path, file) for file in os.listdir(xml_files_path) if file.endswith(".xml")]
-    xml_files = ['pubmed24n0002.xml']
+    xml_files = ['one_pub_article.xml']
     # Call the function to extract all funding agency information and save to JSON and CSV
     extract_all_agencies(xml_files, json_file_path, csv_file_path)
