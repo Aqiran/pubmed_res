@@ -1,67 +1,61 @@
 import os
-import json
 import csv
 import xml.etree.ElementTree as ET
 
-def extract_all_agencies(xml_files, json_file, csv_file):
-    all_agencies = []
+def has_us_affiliation(affiliation):
+    usa_keywords = ["U.S.A", "U.S", "USA"]
+    for keyword in usa_keywords:
+        if keyword in affiliation:
+            return True
+    return False
+
+def has_state_name(affiliation):
+    us_states = ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+    for state in us_states:
+        if state in affiliation:
+            return True
+    return False
+
+def has_zipcode(affiliation):
+    if any(char.isdigit() for char in affiliation) and len([char for char in affiliation if char.isdigit()]) >= 6:
+        return True
+    return False
+
+def extract_us_articles(xml_files, csv_file):
+    us_articles = []
 
     for xml_file in xml_files:
         tree = ET.parse(xml_file)
         root = tree.getroot()
 
-        for article in root.findall(".//PubmedArticle/MedlineCitation/Article/GrantList/Grant"):
-            
-            try:
-                grant_id = article.findtext("GrantID", "")
-                acronym = article.findtext("Acronym", "")
-                agency = article.findtext("Agency", "")
-                country = article.findtext("Country", "")
-                pubmed_id = root.findtext(".//PubmedArticle/MedlineCitation/PMID", "")
-                 # Find all PublicationType elements
-                publication_types = root.findall(".//PubmedArticle/MedlineCitation/Article/PublicationType")
+        for article in root.findall(".//PubmedArticle"):
+            affiliations = [affiliation.text for affiliation in article.findall(".//AffiliationInfo/Affiliation")]
+            for affiliation in affiliations:
+                if has_us_affiliation(affiliation) or has_state_name(affiliation) or has_zipcode(affiliation):
+                    pubmed_id = article.findtext("./MedlineCitation/PMID", "")
+                    us_articles.append({"PubMedID": pubmed_id})
+                    break  # Break loop if US affiliation found
 
-                # Filter PublicationType elements containing 'Research Support'
-                research_support_types = [pt.text for pt in publication_types if 'Research Support' in pt.text]
-
-                # Combine multiple research support types into a single string
-                research_support = ', '.join(research_support_types)
-
-                # Append agency information to the list
-                all_agencies.append({
-                    "Grant ID": grant_id,
-                    "Acronym": acronym,
-                    "Agency": agency,
-                    "Country": country,
-                    "PubMedID": pubmed_id,
-                    "Reasearch_Support": research_support
-                })
-            except KeyError:
-                pass  # Some articles might not have funding information
-
-    # Save all agencies to a JSON file
-    with open(json_file, 'w', encoding='utf-8') as jsonfile:
-        json.dump(all_agencies, jsonfile, ensure_ascii=False, indent=4)
-
-    # Extract specific data from the JSON format and store in CSV
+    # Store US articles to CSV
     with open(csv_file, mode='w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ["Grant ID", "Acronym", "Agency", "Country", "PubMedID","Reasearch_Support"]
+        fieldnames = ["PubMedID"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         # Write the header to the CSV file
         writer.writeheader()
 
-        # Iterate through JSON data and write to CSV
-        for agency in all_agencies:
-            writer.writerow(agency)
+        # Iterate through US articles and write to CSV
+        for article in us_articles:
+            writer.writerow(article)
 
 if __name__ == "__main__":
     xml_files_path = "C:\\Users\\Patron\\Downloads\\pubmed_res"
-    json_file_path = os.path.join(xml_files_path, "all_funding_data.json")
-    csv_file_path = os.path.join(xml_files_path, "selected_funding_data.csv")
+    csv_file_path = os.path.join(xml_files_path, "us_articles.csv")
 
     # List all XML files in the specified directory
     #xml_files = [os.path.join(xml_files_path, file) for file in os.listdir(xml_files_path) if file.endswith(".xml")]
-    xml_files = ['one_pub_article.xml']
-    # Call the function to extract all funding agency information and save to JSON and CSV
-    extract_all_agencies(xml_files, json_file_path, csv_file_path)
+
+    xml_files=["one_pub_article.xml"]
+
+    # Call the function to extract articles with US affiliation and store PMID and Grant IDs in CSV
+    extract_us_articles(xml_files, csv_file_path)
