@@ -282,5 +282,423 @@
       </ArticleIdList>
     </PubmedData>
   </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12265</PMID>
+      <DateCompleted>
+        <Year>1977</Year>
+        <Month>02</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>07</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0022-3573</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>28</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>1976</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of pharmacy and pharmacology</Title>
+          <ISOAbbreviation>J Pharm Pharmacol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Size analysis of metered suspension pressurized aerosols with the Quantimet 720.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>890-7</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>A method is described for particle sizing of pressurized metered suspension aerosols by collection in a settling drum followed by microscopic evaluation of the slides with a Quantimet 720 automatic image analyser. The method gives satisfactory representation of the distribution of particles settling to the drum base, and demonstrates the excellent stability and reproducibility between and within aerosol packs for two widely used inhalation products. There is much drug deposition of somewhat finer size distribution on the wall of the drum than on the drum base. In spite of this wall loss, the method gives only slightly higher results for the weight and number mean diameters, than when both wall and base distributions are considered. The Quantimet was found to be suitable for particle sizing salbutamol used in preparing aerosol products.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hallworth</LastName>
+            <ForeName>G W</ForeName>
+            <Initials>GW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pharmaceutical Research Department, Allen and Hanburys Research Ltd., Ware, Herts, U.S.A</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hamilton</LastName>
+            <ForeName>R R</ForeName>
+            <Initials>RR</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Pharm Pharmacol</MedlineTA>
+        <NlmUniqueID>0376363</NlmUniqueID>
+        <ISSNLinking>0022-3573</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000336">Aerosols</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D013535">Suspensions</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>KGZ1SLC28Z</RegistryNumber>
+          <NameOfSubstance UI="D001507">Beclomethasone</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>QF8SVZ843E</RegistryNumber>
+          <NameOfSubstance UI="D000420">Albuterol</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000336" MajorTopicYN="Y">Aerosols</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000420" MajorTopicYN="N">Albuterol</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001507" MajorTopicYN="N">Beclomethasone</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002626" MajorTopicYN="N">Chemistry, Pharmaceutical</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010316" MajorTopicYN="Y">Particle Size</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013535" MajorTopicYN="N">Suspensions</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>1976</Year>
+          <Month>12</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>1976</Year>
+          <Month>12</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>1976</Year>
+          <Month>12</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12265</ArticleId>
+        <ArticleId IdType="doi">10.1111/j.2042-7158.1976.tb04087.x</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">17089</PMID>
+      <DateCompleted>
+        <Year>1977</Year>
+        <Month>07</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2006</Year>
+        <Month>11</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0030-932X</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>16</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>1977</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Padiatrie und Grenzgebiete</Title>
+          <ISOAbbreviation>Padiatr Grenzgeb</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>[Clinical and morphological evaluations of the volume of congenitally-dystopic and surgically treated testis].</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>93-9</MedlinePgn>
+        </Pagination>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kleinteich</LastName>
+            <ForeName>B</ForeName>
+            <Initials>B</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schickedanz</LastName>
+            <ForeName>H</ForeName>
+            <Initials>H</Initials>
+          </Author>
+        </AuthorList>
+        <Language>ger</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D004740">English Abstract</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <VernacularTitle>Klinische und morphologische Bewertungen des Volumens Kongenital-dystoper und chirurgisch behandelter Hoden</VernacularTitle>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Padiatr Grenzgeb</MedlineTA>
+        <NlmUniqueID>0401115</NlmUniqueID>
+        <ISSNLinking>0030-932X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001706" MajorTopicYN="N">Biopsy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002675" MajorTopicYN="N">Child, Preschool</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003456" MajorTopicYN="N">Cryptorchidism</DescriptorName>
+          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007223" MajorTopicYN="N">Infant</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007231" MajorTopicYN="N">Infant, Newborn</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013737" MajorTopicYN="N">Testis</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>1977</Year>
+          <Month>1</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>1977</Year>
+          <Month>1</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>1977</Year>
+          <Month>1</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">17089</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">17090</PMID>
+      <DateCompleted>
+        <Year>1977</Year>
+        <Month>07</Month>
+        <Day>29</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0304-3959</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>2</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>1976</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Pain</Title>
+          <ISOAbbreviation>Pain</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A comprehensive treatment approach to chronic low back pain.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>301-308</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/0304-3959(76)90007-5</ELocationID>
+        <Abstract>
+          <AbstractText>A comprehensive treatment program for chronic disability related to back disease has been presented. This program has used not only more traditional methods of medical care for the structural disabilities of chronic mechanical back disorders, but has used principles of active patient participation in the improvement process. The patients are educated in the manifestations of pain behavior in the phase II treatment program emphasis on pain sources is downgraded to allow positive reinforcement for healthy behavior to develop. By use of an organized team approach, a significant number of patients can be processed; and an overall reduction in use of alternative medical resources has occurred.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Cairns</LastName>
+            <ForeName>Douglas</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Spine Center, Rancho Los Amigos Hospital, 7601 East Imperial Highway, Downey, Calif. 90242</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Thomas</LastName>
+            <ForeName>Lynn</ForeName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mooney</LastName>
+            <ForeName>Vert</ForeName>
+            <Initials>V</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pace</LastName>
+            <ForeName>Blair J</ForeName>
+            <Initials>BJ</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Pain</MedlineTA>
+        <NlmUniqueID>7508686</NlmUniqueID>
+        <ISSNLinking>0304-3959</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000701">Analgesics, Opioid</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>362O9ITL9D</RegistryNumber>
+          <NameOfSubstance UI="D000082">Acetaminophen</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000082" MajorTopicYN="N">Acetaminophen</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000701" MajorTopicYN="N">Analgesics, Opioid</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001416" MajorTopicYN="N">Back Pain</DescriptorName>
+          <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002908" MajorTopicYN="N">Chronic Disease</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003191" MajorTopicYN="Y">Comprehensive Health Care</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006760" MajorTopicYN="Y">Hospitalization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007899" MajorTopicYN="N">Leisure Activities</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008019" MajorTopicYN="N">Life Style</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010348" MajorTopicYN="N">Patient Care Team</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010551" MajorTopicYN="N">Personality</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D026741" MajorTopicYN="N">Physical Therapy Modalities</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012054" MajorTopicYN="N">Reinforcement, Psychology</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>1976</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>1976</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>1976</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">17090</ArticleId>
+        <ArticleId IdType="doi">10.1016/0304-3959(76)90007-5</ArticleId>
+        <ArticleId IdType="pii">00006396-197609000-00007</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
 </PubmedArticleSet>
   
