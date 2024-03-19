@@ -1,0 +1,286 @@
+ 
+ <PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">759665</PMID>
+      <DateCompleted>
+        <Year>1979</Year>
+        <Month>03</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2017</Year>
+        <Month>11</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0098-7484</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>241</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>1979</Year>
+              <Month>Feb</Month>
+              <Day>02</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA</Title>
+          <ISOAbbreviation>JAMA</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Allergic reaction to transfused cephalothin antibody.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>495-6</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Antibodies to cephalothin sodium (Keflin) can be transferred passively via whole blood transfusion. In one case a mild allergic-type reaction was initiated in a patient who was receiving cephalothin therapy. This case is differentiated from a penicillin-caused allergic reaction. All patients that demonstrate allergic-type transfusion reactions should give drug histories. Investigation of passive transfer of antibodies to these drugs might be of benefit in any evaluation made.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Branch</LastName>
+            <ForeName>D R</ForeName>
+            <Initials>DR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gifford</LastName>
+            <ForeName>H</ForeName>
+            <Initials>H</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D002363">Case Reports</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JAMA</MedlineTA>
+        <NlmUniqueID>7501160</NlmUniqueID>
+        <ISSNLinking>0098-7484</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000906">Antibodies</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>R72LW146E6</RegistryNumber>
+          <NameOfSubstance UI="D002512">Cephalothin</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000906" MajorTopicYN="N">Antibodies</DescriptorName>
+          <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001782" MajorTopicYN="N">Blood Donors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002512" MajorTopicYN="N">Cephalothin</DescriptorName>
+          <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004342" MajorTopicYN="N">Drug Hypersensitivity</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004912" MajorTopicYN="N">Erythrocytes</DescriptorName>
+          <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007116" MajorTopicYN="N">Immunization, Passive</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065227" MajorTopicYN="Y">Transfusion Reaction</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>1979</Year>
+          <Month>2</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>1979</Year>
+          <Month>2</Month>
+          <Day>2</Day>
+          <Hour>0</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>1979</Year>
+          <Month>2</Month>
+          <Day>2</Day>
+          <Hour>0</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">759665</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">759104</PMID>
+      <DateCompleted>
+        <Year>1979</Year>
+        <Month>03</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>09</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0010-440X</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>20</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <MedlineDate>1979 Jan-Feb</MedlineDate>
+            </PubDate>
+          </JournalIssue>
+          <Title>Comprehensive psychiatry</Title>
+          <ISOAbbreviation>Compr Psychiatry</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Lithium in opiate abuse: a theoretical approach.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>91-9</MedlinePgn>
+        </Pagination>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Flemenbaum</LastName>
+            <ForeName>A</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cronson</LastName>
+            <ForeName>A J</ForeName>
+            <Initials>AJ</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Weddige</LastName>
+            <ForeName>R L</ForeName>
+            <Initials>RL</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Compr Psychiatry</MedlineTA>
+        <NlmUniqueID>0372612</NlmUniqueID>
+        <ISSNLinking>0010-440X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>9FN79X2M3F</RegistryNumber>
+          <NameOfSubstance UI="D008094">Lithium</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>CK833KGX7E</RegistryNumber>
+          <NameOfSubstance UI="D000661">Amphetamine</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000661" MajorTopicYN="N">Amphetamine</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001714" MajorTopicYN="N">Bipolar Disorder</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003527" MajorTopicYN="N">Cyclothymic Disorder</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003863" MajorTopicYN="N">Depression</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004347" MajorTopicYN="N">Drug Interactions</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008094" MajorTopicYN="N">Lithium</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009043" MajorTopicYN="N">Motor Activity</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019966" MajorTopicYN="N">Substance-Related Disorders</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>1979</Year>
+          <Month>1</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>1979</Year>
+          <Month>1</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>1979</Year>
+          <Month>1</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">759104</ArticleId>
+        <ArticleId IdType="pii">0010-440X(79)90063-4</ArticleId>
+        <ArticleId IdType="doi">10.1016/0010-440x(79)90063-4</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
+  
