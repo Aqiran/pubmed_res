@@ -18,7 +18,7 @@ def has_state_name(affiliation):
     return False
 
 def has_zipcode(affiliation):
-    if any(char.isdigit() for char in affiliation) and len([char for char in affiliation if char.isdigit()]) >= 6:
+    if any(char.isdigit() for char in affiliation) and len([char for char in affiliation if char.isdigit()]) == 6:
         return True
     return False
 
@@ -34,12 +34,13 @@ def extract_us_articles(xml_files, csv_file):
             for affiliation in affiliations:
                 if has_us_affiliation(affiliation) or has_state_name(affiliation) or has_zipcode(affiliation):
                     pubmed_id = article.findtext("./MedlineCitation/PMID", "")
-                    us_articles.append({"PubMedID": pubmed_id})
+                    title = article.findtext(".//Article/ArticleTitle", "")
+                    us_articles.append({"PubMedID": pubmed_id,"Article_Title":title})
                     break  # Break loop if US affiliation found
 
     # Store US articles to CSV
     with open(csv_file, mode='w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ["PubMedID"]
+        fieldnames = ["PubMedID","Article_Title"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         # Write the header to the CSV file
