@@ -139,565 +139,1400 @@
     </PubmedData>
   </PubmedArticle>
   <PubmedArticle>
-    <MedlineCitation Status="MEDLINE" Owner="NLM">
-      <PMID Version="1">759104</PMID>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37764730</PMID>
       <DateCompleted>
-        <Year>1979</Year>
-        <Month>03</Month>
-        <Day>28</Day>
+        <Year>2023</Year>
+        <Month>10</Month>
+        <Day>23</Day>
       </DateCompleted>
       <DateRevised>
-        <Year>2019</Year>
-        <Month>09</Month>
-        <Day>02</Day>
+        <Year>2023</Year>
+        <Month>10</Month>
+        <Day>23</Day>
       </DateRevised>
-      <Article PubModel="Print">
+      <Article PubModel="Electronic">
         <Journal>
-          <ISSN IssnType="Print">0010-440X</ISSN>
-          <JournalIssue CitedMedium="Print">
-            <Volume>20</Volume>
-            <Issue>1</Issue>
+          <ISSN IssnType="Electronic">2072-6643</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>15</Volume>
+            <Issue>18</Issue>
             <PubDate>
-              <MedlineDate>1979 Jan-Feb</MedlineDate>
+              <Year>2023</Year>
+              <Month>Sep</Month>
+              <Day>12</Day>
             </PubDate>
           </JournalIssue>
-          <Title>Comprehensive psychiatry</Title>
-          <ISOAbbreviation>Compr Psychiatry</ISOAbbreviation>
+          <Title>Nutrients</Title>
+          <ISOAbbreviation>Nutrients</ISOAbbreviation>
         </Journal>
-        <ArticleTitle>Lithium in opiate abuse: a theoretical approach.</ArticleTitle>
-        <Pagination>
-          <MedlinePgn>91-9</MedlinePgn>
-        </Pagination>
+        <ArticleTitle>The Role of Dietary Protein in Body Weight Regulation among Active-Duty Military Personnel during Energy Deficit: A Systematic Review.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">3948</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/nu15183948</ELocationID>
+        <Abstract>
+          <AbstractText>Active-duty military personnel are subjected to sustained periods of energy deficit during combat and training, leaving them susceptible to detrimental reductions in body weight. The importance of adequate dietary protein intake during periods of intense physical training is well established, where previous research has primarily focused on muscle protein synthesis, muscle recovery, and physical performance. Research on how protein intake may influence body weight regulation in this population is lacking; therefore, the objective of this review was to evaluate the role of dietary protein in body weight regulation among active-duty military during an energy deficit. A literature search based on fixed inclusion and exclusion criteria was performed. English language peer-reviewed journal articles from inception to 3 June 2023 were selected for extraction and quality assessment. Eight studies were identified with outcomes described narratively. The study duration ranged from eight days to six months. Protein was directly provided to participants in all studies except for one. Three studies supplied additional protein via supplementation. The Downs and Black Checklist was used to assess study quality. Five studies were classified as good, two as fair, and one as excellent. All studies reported mean weight loss following energy deficit: the most severe was 4.0 kg. Protein dose during energy deficit varied from 0.5 g/kg/day to 2.4 g/kg/day. Six studies reported mean reductions in fat mass, with the largest being 4.5 kg. Four studies reported mean reductions in fat-free mass, while two studies reported an increase. Results support the recommendation that greater than 0.8 g/kg/day is necessary to mitigate the impact of energy deficit on a decline in lean body mass, while intakes up to 1.6 g/kg/day may be preferred. However, exact recommendations cannot be inferred as the severity and duration of energy deficit varied across studies. Longer and larger investigations are needed to elucidate protein's role during energy deficit in active-duty military.</AbstractText>
+        </Abstract>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>Flemenbaum</LastName>
-            <ForeName>A</ForeName>
+            <LastName>Anderson</LastName>
+            <ForeName>Robert E</ForeName>
+            <Initials>RE</Initials>
+            <Suffix>3rd</Suffix>
+            <Identifier Source="ORCID">0000-0002-0008-7754</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Nutrition, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, Chapel Hill, NC 27517, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Casperson</LastName>
+            <ForeName>Shanon L</ForeName>
+            <Initials>SL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Grand Forks Human Nutrition Research Center, Agricultural Research Service, U.S. Department of Agriculture, Grand Forks, ND 58203, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kho</LastName>
+            <ForeName>Hannah</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Dietetics and Human Nutrition, College of Agriculture, Food and Environment, University of Kentucky, Lexington, KY 40506, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Flack</LastName>
+            <ForeName>Kyle D</ForeName>
+            <Initials>KD</Initials>
+            <Identifier Source="ORCID">0000-0001-7622-4770</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Dietetics and Human Nutrition, College of Agriculture, Food and Environment, University of Kentucky, Lexington, KY 40506, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D000078182">Systematic Review</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>09</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Nutrients</MedlineTA>
+        <NlmUniqueID>101521595</NlmUniqueID>
+        <ISSNLinking>2072-6643</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D004044">Dietary Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002149" MajorTopicYN="Y">Energy Intake</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008889" MajorTopicYN="Y">Military Personnel</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004044" MajorTopicYN="N">Dietary Proteins</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015444" MajorTopicYN="N">Exercise</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001835" MajorTopicYN="N">Body Weight</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">active-duty military</Keyword>
+        <Keyword MajorTopicYN="N">body composition</Keyword>
+        <Keyword MajorTopicYN="N">body weight</Keyword>
+        <Keyword MajorTopicYN="N">energy deficit</Keyword>
+        <Keyword MajorTopicYN="N">fat mass</Keyword>
+        <Keyword MajorTopicYN="N">fat-free mass</Keyword>
+        <Keyword MajorTopicYN="N">protein</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>08</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2023</Year>
+          <Month>09</Month>
+          <Day>06</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>09</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>23</Day>
+          <Hour>1</Hour>
+          <Minute>18</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>9</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>9</Month>
+          <Day>28</Day>
+          <Hour>1</Hour>
+          <Minute>35</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37764730</ArticleId>
+        <ArticleId IdType="pii">nu15183948</ArticleId>
+        <ArticleId IdType="doi">10.3390/nu15183948</ArticleId>
+        <ArticleId IdType="pmc">PMC10536394</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Br J Nutr. 2014 Sep 14;112(5):821-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25007417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Nutr. 2013 Nov;143(11):1811S-1814S</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24027189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMJ. 2021 Mar 29;372:n71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33782057</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Clin Nutr. 2012 Dec;96(6):1281-98</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23097268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Appl Physiol (1985). 2008 Jul;105(1):58-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18450989</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Contemp Clin Trials. 2017 Jul;58:47-57</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28479217</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mil Med. 1989 Dec;154(12):619-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2513533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Sports Med. 2018 Mar;52(6):387-407</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28954794</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adv Nutr. 2019 Jan 1;10(1):70-79</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30596808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>FASEB J. 2013 Sep;27(9):3837-47</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23739654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nutrients. 2020 Aug 15;12(8):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32824200</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Clin Nutr. 2016 Mar;103(3):738-46</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26817506</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Nutr. 2013 Nov;143(11):1852S-1856S</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24027188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Obesity (Silver Spring). 2013 Nov;21(11):2205-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23836452</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Sport Nutr Exerc Metab. 2006 Oct;16(5):494-509</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17240782</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Can J Ophthalmol. 2008 Apr;43(2):180-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18347620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Spec Oper Med. 2015 Winter;15(4):89-95</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26630101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Sci Med Sport. 2021 Oct;24(10):995-1001</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34452842</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mil Med. 2021 Nov 2;186(11-12):1093-1099</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33506251</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Epidemiol Community Health. 1998 Jun;52(6):377-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9764259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nutrients. 2018 Sep 06;10(9):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30200582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Sport Nutr Exerc Metab. 2014 Apr;24(2):127-38</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24092765</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nutrients. 2021 Oct 25;13(11):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34836029</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mil Med. 2003 Jan;168(1):63-70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12546249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Appl Physiol (1985). 2017 Jun 1;122(6):1485-1493</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28385919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Br J Nutr. 2017 Mar;117(6):897-910</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28452292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Nutr. 2017 Jan;36(1):16-27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27710436</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nutrients. 2019 May 22;11(5):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31121843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mil Med Res. 2018 Dec 24;5(1):43</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30591077</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appl Physiol Nutr Metab. 2014 Dec;39(12):1395-401</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25386980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Nutr. 2013 Nov;143(11):1815S-1819S</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24027181</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>FASEB J. 2015 Apr;29(4):1136-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25550460</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">38050924</PMID>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1531-4995</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Laryngoscope</Title>
+          <ISOAbbreviation>Laryngoscope</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Associations Between Social Vulnerability Indicators and Pediatric Tonsillectomy Outcomes.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/lary.30836</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the impact of neighborhood-level social vulnerability on pediatric tonsillectomy outcomes.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This single-center retrospective cohort study included tonsillectomies performed on children aged 1 to 18 between August 2019 and August 2020. Geographic information systems were used to geocode addresses, and spatial overlays were used to assign census-tract level social vulnerability index (SVI) scores to each patient. For categorical variables, two-sided Pearson chi-square tests were used, whereas for continuous variables, paired t-tests, means, and standard deviations were calculated. SVI and its four subthemes were investigated using binomial logistic regressions to determine their impact on post-T&amp;A complications and readmissions.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The study included 397 patients, with 52 having complications (13.1%) and 33 (8.3%) requiring readmissions due to their complications. Controlling for age, gender, race, insurance status, surgical indication, comorbidities, obesity, and obstructive sleep apnea, postoperative complications were associated with high overall SVI (odds ratio [OR] 5.086, 95% confidence interval [CI] 1.128-22.938), high socioeconomic vulnerability (SVI theme 1, OR 6.003, 95% CI 1.270-28.385), and high house composition vulnerability (SVI theme 2, OR 6.340, 95% CI 1.275-31.525). Readmissions were also associated with high overall SVI (10.149, 95% CI 1.293-79.647) and high housing/transportation vulnerability (SVI theme 4, OR 5.657, 95% CI 1.089-29.396).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Social vulnerability at the neighborhood level is linked to poorer surgical outcomes in otherwise healthy children, suggesting a target for community-based interventions. Because of the increased risk, it may have implications for preoperative decision-making, treatment plans, and clinic follow-ups.</AbstractText>
+          <AbstractText Label="LEVEL OF EVIDENCE" NlmCategory="METHODS">III. Laryngoscope, 2023.</AbstractText>
+          <CopyrightInformation>© 2023 The American Laryngological, Rhinological and Otological Society, Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Nieri</LastName>
+            <ForeName>Chad A</ForeName>
+            <Initials>CA</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-1087-2799</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head and Neck Surgery, University of Tennessee Health Science Center, Memphis, Tennessee, U.S.A.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head and Neck Surgery, Washington University School of Medicine, St. Louis, Missouri, U.S.A.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Davies</LastName>
+            <ForeName>Camron M</ForeName>
+            <Initials>CM</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0001-9641-3923</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head and Neck Surgery, University of Tennessee Health Science Center, Memphis, Tennessee, U.S.A.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Luttrell</LastName>
+            <ForeName>Jordan B</ForeName>
+            <Initials>JB</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0003-0088-8225</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head and Neck Surgery, University of Tennessee Health Science Center, Memphis, Tennessee, U.S.A.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sheyn</LastName>
+            <ForeName>Anthony</ForeName>
             <Initials>A</Initials>
-          </Author>
-          <Author ValidYN="Y">
-            <LastName>Cronson</LastName>
-            <ForeName>A J</ForeName>
-            <Initials>AJ</Initials>
-          </Author>
-          <Author ValidYN="Y">
-            <LastName>Weddige</LastName>
-            <ForeName>R L</ForeName>
-            <Initials>RL</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0001-5924-3689</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head and Neck Surgery, University of Tennessee Health Science Center, Memphis, Tennessee, U.S.A.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Otolaryngology, LeBonheur Children's Hospital, Memphis, Tennessee, U.S.A.</Affiliation>
+            </AffiliationInfo>
           </Author>
         </AuthorList>
         <Language>eng</Language>
         <PublicationTypeList>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
       </Article>
       <MedlineJournalInfo>
         <Country>United States</Country>
-        <MedlineTA>Compr Psychiatry</MedlineTA>
-        <NlmUniqueID>0372612</NlmUniqueID>
-        <ISSNLinking>0010-440X</ISSNLinking>
+        <MedlineTA>Laryngoscope</MedlineTA>
+        <NlmUniqueID>8607378</NlmUniqueID>
+        <ISSNLinking>0023-852X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">SVI</Keyword>
+        <Keyword MajorTopicYN="N">Social Vulnerability</Keyword>
+        <Keyword MajorTopicYN="N">Social vulnerability index</Keyword>
+        <Keyword MajorTopicYN="N">T&amp;A</Keyword>
+        <Keyword MajorTopicYN="N">adenotonsillectomy</Keyword>
+        <Keyword MajorTopicYN="N">complications</Keyword>
+        <Keyword MajorTopicYN="N">disparity</Keyword>
+        <Keyword MajorTopicYN="N">geocoding</Keyword>
+        <Keyword MajorTopicYN="N">geographic information systems</Keyword>
+        <Keyword MajorTopicYN="N">health equity</Keyword>
+        <Keyword MajorTopicYN="N">health outcomes</Keyword>
+        <Keyword MajorTopicYN="N">healthcare access</Keyword>
+        <Keyword MajorTopicYN="N">healthcare disparities</Keyword>
+        <Keyword MajorTopicYN="N">pediatric</Keyword>
+        <Keyword MajorTopicYN="N">pediatric otolaryngology</Keyword>
+        <Keyword MajorTopicYN="N">postoperative outcomes</Keyword>
+        <Keyword MajorTopicYN="N">readmissions</Keyword>
+        <Keyword MajorTopicYN="N">social determinants of health</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2023</Year>
+          <Month>04</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>01</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>05</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>5</Day>
+          <Hour>17</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>5</Day>
+          <Hour>17</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>5</Day>
+          <Hour>7</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38050924</ArticleId>
+        <ArticleId IdType="doi">10.1002/lary.30836</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>BIBLIOGRAPHY</Title>
+        <Reference>
+          <Citation>Karen A, Cullen MJH, Golosinskiy A. Ambulatory surgery in the United States, 2006. National Health Statistics Report. 2009;2006(11):1-25.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Konstantinopoulou S, Gallagher P, Elden L, et al. Complications of adenotonsillectomy for obstructive sleep apnea in school-aged children. Int J Pediatr Otorhinolaryngol. 2015;79(2):240-245. https://doi.org/10.1016/j.ijporl.2014.12.018.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bhattacharyya N, Shapiro NL. Associations between socioeconomic status and race with complications after tonsillectomy in children. Otolaryngol Head Neck Surg. 2014;151(6):1055-1060. https://doi.org/10.1177/0194599814552647.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lloyd AM, Behzadpour HK, Schonman I, Rana MS, Espinel AG. Socioeconomic factors associated with readmission following pediatric tonsillectomy. Int J Pediatr Otorhinolaryngol. 2021;151:110917. https://doi.org/10.1016/j.ijporl.2021.110917.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cheung AY, Kan KY, Jang S, Cohen MB, Levi JR. Socioeconomic variables as a predictor of indication for pediatric adenotonsillectomy. Int J Pediatr Otorhinolaryngol. 2020;136:110181. https://doi.org/10.1016/j.ijporl.2020.110181.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lawlor CM, Riley CA, Carter JM, Rodriguez KH. Association between age and weight as risk factors for complication after tonsillectomy in healthy children. JAMA Otolaryngol Head Neck Surg. 2018;144(5):399-405. https://doi.org/10.1001/jamaoto.2017.3431.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Coordes A, Soudry J, Hofmann VM, Lenarz M. Gender-specific risk factors in post-tonsillectomy hemorrhage. Eur Arch Otorhinolaryngol. 2016;273(12):4535-4541. https://doi.org/10.1007/s00405-016-4146-7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kou YF, Sakai M, Shah GB, Mitchell RB, Johnson RF. Postoperative respiratory complications and racial disparities following inpatient pediatric tonsillectomy: a cross-sectional study. Laryngoscope. 2019;129(4):995-1000. https://doi.org/10.1002/lary.27405.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Allareddy V, Martinez-Schlurmann N, Rampa S, et al. Predictors of complications of tonsillectomy with or without adenoidectomy in hospitalized children and adolescents in the United States, 2001-2010: a population-based study. Clin Pediatr (Phila). 2016;55(7):593-602. https://doi.org/10.1177/0009922815616885.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Khoury H, Azar SS, Boutros H, Shapiro NL. Preoperative predictors and costs of 30-day readmission following inpatient pediatric tonsillectomy in the United States. Otolaryngol Head Neck Surg. 2021;165(3):470-476. https://doi.org/10.1177/0194599820980709.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gehrke T, Scherzad A, Hagen R, Hackenberg S. Risk factors for children requiring adenotonsillectomy and their impact on postoperative complications: a retrospective analysis of 2000 patients. Anaesthesia. 2019;74(12):1572-1579. https://doi.org/10.1111/anae.14844.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tomkinson A, Harrison W, Owens D, Harris S, McClure V, Temple M. Risk factors for postoperative hemorrhage following tonsillectomy. Laryngoscope. 2011;121(2):279-288. https://doi.org/10.1002/lary.21242.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pecha PP, Chew M, Andrews AL. Racial and ethnic disparities in utilization of tonsillectomy among Medicaid-insured children. J Pediatr. 2021;233:191-197.e2. https://doi.org/10.1016/j.jpeds.2021.01.071.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Heller MA, Lind MN, Boss EF, Cooper JN. Differences in tonsillectomy use by race/ethnicity and type of health insurance before and after the 2011 tonsillectomy clinical practice guidelines. J Pediatr. 2020;220:116-124.e3. https://doi.org/10.1016/j.jpeds.2020.01.061.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cooper JN, Koppera S, Boss EF, Lind MN. Differences in tonsillectomy utilization by race/ethnicity, type of health insurance, and rurality. Acad Pediatr. 2021;21(6):1031-1036. https://doi.org/10.1016/j.acap.2020.11.007.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kou YF, Mitchell RB, Johnson RF. A cross-sectional analysis of pediatric ambulatory tonsillectomy surgery in the United States. Otolaryngol Head Neck Surg. 2019;161(4):699-704. https://doi.org/10.1177/0194599819844791.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kind AJH, Buckingham WR. Making neighborhood-disadvantage metrics accessible-the neighborhood atlas. N Engl J Med. 2018;378(26):2456-2458. https://doi.org/10.1056/NEJMp1802313.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kolak M, Bhatt J, Park YH, Padron NA, Molefe A. Quantification of neighborhood-level social determinants of health in the continental United States. JAMA Netw Open. 2020;3(1):e1919928. https://doi.org/10.1001/jamanetworkopen.2019.19928.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Arcaya MC, Tucker-Seeley RD, Kim R, Schnake-Mahl A, So M, Subramanian SV. Research on neighborhood effects on health in the United States: a systematic review of study characteristics. Soc Sci Med. 2016;168:16-29. https://doi.org/10.1016/j.socscimed.2016.08.047.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Williams DR, Collins C. &lt;racial residential segregation: a fundamental cause of racial disparities in health. Public Health Rep. 2001;116(5):404-416. https://doi.org/10.1093/phr/116.5.404.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chetty R, Hendren N, Katz LF. The effects of exposure to better neighborhoods on children: new evidence from the moving to opportunity experiment. Am Econ Rev. 2016;106(4):855-902. https://doi.org/10.1257/aer.20150572.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sharkey P. Neighborhoods, cities, and economic mobility. J Soc Sci The Russell Sage Foundation. 2016;2(2):159-177.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>McGinnis JM. Income, life expectancy, and community health: underscoring the opportunity. JAMA. 2016;315(16):1709-1710. https://doi.org/10.1001/jama.2016.4729.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schraw JM, Peckham-Gregory EC, Rabin KR, Scheurer ME, Lupo PJ, Oluyomi A. Area deprivation is associated with poorer overall survival in children with acute lymphoblastic leukemia. Pediatr Blood Cancer. 2020;67(9):e28525. https://doi.org/10.1002/pbc.28525.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>At a glance: CDC/ATSDR social vulnerability index. Centers for Disease Control and Prevention. October 26, 2022. Accessed December 15, 2022. https://www.atsdr.cdc.gov/placeandhealth/svi/at-a-glance_svi.html.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Glossary. US Census Bureau. Accessed April 17, 2023. https://www.census.gov/programs-surveys/geography/about/glossary.html.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Measuring Community Vulnerability to Natural and Anthropogenic Hazards. The Centers for Disease Control and Prevention's Social Vulnerability Index; 2018.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bazemore AW, Cottrell EK, Gold R, et al. "community vital signs": incorporating geocoded social determinants into electronic records to promote patient and population health. J Am Med Inform Assoc. 2016;23(2):407-412. https://doi.org/10.1093/jamia/ocv088.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Diaz A, Hyer JM, Azap R, Tsilimigras D, Pawlik TM. Association of social vulnerability with the use of high-volume and magnet recognition hospitals for hepatopancreatic cancer surgery. Surgery. 2021;170(2):571-578. https://doi.org/10.1016/j.surg.2021.02.038.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hyer JM, Tsilimigras DI, Diaz A, et al. High social vulnerability and "textbook outcomes" after cancer operation. J Am Coll Surg. 2021;232(4):351-359. https://doi.org/10.1016/j.jamcollsurg.2020.11.024.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Carmichael H, Moore A, Steward L, Velopulos CG. Using the social vulnerability index to examine local disparities in emergent and elective cholecystectomy. J Surg Res. 2019;243:160-164. https://doi.org/10.1016/j.jss.2019.05.022.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rosevine A, Azap JMH, Diaz A, Paredes AZ, Pawlik TM. Association of county-level vulnerability, patient-level race/ethnicity, and receipt of surgery for early-stage hepatocellular carcinoma. JAMA Surg. 2020;156:197-199. https://doi.org/10.1001/jamasurg.2020.5554.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Diaz A, Barmash E, Azap R, Paredes AZ, Hyer JM, Pawlik TM. Association of county-level social vulnerability with elective versus non-elective colorectal surgery. J Gastrointest Surg. 2021;25(3):786-794. https://doi.org/10.1007/s11605-020-04768-3.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Diaz A, Hyer JM, Barmash E, Azap R, Paredes AZ, Pawlik TM. County-level social vulnerability is associated with worse surgical outcomes especially among minority patients. Ann Surg. 2021;274(6):881-891. https://doi.org/10.1097/SLA.0000000000004691.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hyer JM, Tsilimigras DI, Diaz A, Dalmacy D, Paro A, Pawlik TM. Patient social vulnerability and hospital community racial/ethnic integration: do all patients undergoing pancreatectomy receive the same care across hospitals? Ann Surg. 2021;274(3):508-515. https://doi.org/10.1097/sla.0000000000004989.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Phelos HM, Deeb AP, Brown JB. Can social vulnerability indices predict county trauma fatality rates? J Trauma Acute Care Surg. 2021;91(2):399-405. https://doi.org/10.1097/TA.0000000000003228.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Labiner HE, Hyer M, Cloyd JM, et al. Social vulnerability subtheme analysis improves perioperative risk stratification in hepatopancreatic surgery. J Gastrointest Surg. 2022;26(6):1171-1177. https://doi.org/10.1007/s11605-022-05245-9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Paro A, Hyer JM, Diaz A, Tsilimigras DI, Pawlik TM. Profiles in social vulnerability: the association of social determinants of health with postoperative surgical outcomes. Surgery. 2021;170(6):1777-1784. https://doi.org/10.1016/j.surg.2021.06.001.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yee CW, Cunningham SD, Ickovics JR. Application of the social vulnerability index for identifying teen pregnancy intervention need in the United States. Matern Child Health J. 2019;23(11):1516-1524. https://doi.org/10.1007/s10995-019-02792-7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yap A, Laverde R, Thompson A, et al. Social vulnerability index (SVI) and poor postoperative outcomes in children undergoing surgery in California. Am J Surg. 2023;225(1):122-128. https://doi.org/10.1016/j.amjsurg.2022.09.030.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Thongyam A, Marcus CL, Lockman JL, et al. Predictors of perioperative complications in higher risk children after adenotonsillectomy for obstructive sleep apnea: a prospective study. Otolaryngol Head Neck Surg. 2014;151(6):1046-1054. https://doi.org/10.1177/0194599814552059.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Artiga S, Hinton E. Beyond Health Care- The Role of Social Determinants in Promoting Health and Health Equity. Kaiser Family Foundation; 2018.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Thornton RL, Glover CM, Cene CW, Glik DC, Henderson JA, Williams DR. Evaluating strategies for reducing health disparities by addressing the social determinants of health. Health Aff (Millwood). 2016;35(8):1416-1423. https://doi.org/10.1377/hlthaff.2015.1357.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hahn RA, Truman BI, Williams DR. Civil rights as determinants of public health and racial and ethnic health equity: health care, education, employment, and housing in the United States. SSM Popul Health. 2018;4:17-24. https://doi.org/10.1016/j.ssmph.2017.10.006.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Diaz A, Dalmacy D, Hyer JM, Tsilimigras D, Pawlik TM. Intersection of social vulnerability and residential diversity: postoperative outcomes following resection of lung and colon cancer. J Surg Oncol. 2021;124(5):886-893. https://doi.org/10.1002/jso.26588.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bouchard ME, Kan K, Tian Y, et al. Association between neighborhood-level social determinants of health and access to pediatric appendicitis care. JAMA Netw Open. 2022;5(2):e2148865. https://doi.org/10.1001/jamanetworkopen.2021.48865.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Kunnath N, Dimick JB, Scott JW, Diaz A, Ibrahim AM. Social vulnerability and outcomes for access-sensitive surgical conditions among Medicare beneficiaries. Health Aff (Millwood). 2022;41(5):671-679. https://doi.org/10.1377/hlthaff.2021.01615.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Feldman PJSA. How neighborhoods and physical functioning are related- the roles of neighborhood socioeconomic status, perceived neighborhood strain, and individual health risk factors. Ann Behav Med. 2004;27(2):91-99. https://doi.org/10.1207/s15324796abm2702_3.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jain V, Al Rifai M, Khan SU, et al. Association between social vulnerability index and cardiovascular disease: a behavioral risk factor surveillance system study. J Am Heart Assoc. 2022;11(15):e024414. https://doi.org/10.1161/JAHA.121.024414.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Venkatesh KK, Germann K, Joseph J, et al. Association between social vulnerability and achieving glycemic control among pregnant individuals with pregestational diabetes. Obstet Gynecol. 2022;139(6):1051-1060. https://doi.org/10.1097/AOG.0000000000004727.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Perez NP, Ahmad H, Alemayehu H, Newman EA, Reyes-Ferral C. The impact of social determinants of health on the overall wellbeing of children: a review for the pediatric surgeon. J Pediatr Surg. 2022;57(4):587-597. https://doi.org/10.1016/j.jpedsurg.2021.10.018.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zonfrillo MR, Haarbauer-Krupa J, Wang J, et al. Effect of parental education and household poverty on recovery after traumatic brain injury in school-aged children. Brain Inj. 2021;35(11):1371-1381. https://doi.org/10.1080/02699052.2021.1972141.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Richard HM, Nguyen DC, Birch JG, Roland SD, Samchukov MK, Cherkashin AM. Clinical implications of psychosocial factors on pediatric external fixation treatment and recommendations. Clin Orthop Relat Res. 2015;473(10):3154-3162. https://doi.org/10.1007/s11999-015-4276-z.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Greysen SR, Harrison JD, Kripalani S, et al. Understanding patient-centred readmission factors: a multi-site, mixed-methods study. BMJ Qual Saf. 2017;26(1):33-41. https://doi.org/10.1136/bmjqs-2015-004570.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pantell MS, Hessler D, Long D, et al. Effects of In-person navigation to address family social needs on child health care utilization. JAMA Netw Open. 2020;3(6):1-11. doi:10.1001/jamanetworkopen.2020.6445.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Robinson TD, Oliveira TM, Timmes TR, et al. Socially responsible surgery: building recognition and coalition. Front Surg. 2017;4:11. https://doi.org/10.3389/fsurg.2017.00011.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chalkidou K, Claxton K, Silverman R, Yadav P. Value-based tiered pricing for universal health coverage: an idea worth revisiting. Gates Open Res. 2020;4:16. https://doi.org/10.12688/gatesopenres.13110.3.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>de Jong NA, Kimple KS, Morreale MC, Hang S, Davis D, Steiner MJ. A quality improvement intervention bundle to reduce 30-day pediatric readmissions. Pediatr Qual Saf. 2020;5(2):e264. https://doi.org/10.1097/pq9.0000000000000264.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">38050929</PMID>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1520-4812</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Bioconjugate chemistry</Title>
+          <ISOAbbreviation>Bioconjug Chem</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Application of N-Terminal Site-Specific Biotin and Digoxigenin Conjugates to Clinical Anti-drug Antibody Assay Development.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.bioconjchem.3c00421</ELocationID>
+        <Abstract>
+          <AbstractText>Biotin- and digoxigenin (DIG)-conjugated therapeutic drugs are critical reagents used for the development of anti-drug antibody (ADA) assays for the assessment of immunogenicity. The current practice of generating biotin and DIG conjugates is to label a therapeutic antibody with biotin or DIG via primary amine groups on lysine or N-terminal residues. This approach modifies lysine residues nonselectively, which can impact the ability of an ADA assay to detect those ADAs that recognize epitopes located at or near the modified lysine residue(s). The impact of the lysine modification is considered greater for therapeutic antibodies that have a limited number of lysine residues, such as the variable heavy domain of heavy chain (VHH) antibodies. In this paper, for the first time, we report the application of site-specifically conjugated biotin- and DIG-VHH reagents to clinical ADA assay development using a model molecule, VHHA. The site-specific conjugation of biotin or DIG to VHHA was achieved by using an optimized reductive alkylation approach, which enabled the majority of VHHA molecules labeled with biotin or DIG at the desirable N-terminus, thereby minimizing modification of the protein after labeling and reducing the possibility of missing detection of ADAs. Head-to-head comparison of biophysical characterization data revealed that the site-specific biotin and DIG conjugates demonstrated overall superior quality to biotin- and DIG-VHHA prepared using the conventional amine coupling method, and the performance of the ADA assay developed using site-specific biotin and DIG conjugates met all acceptance criteria. The approach described here can be applied to the production of other therapeutic-protein- or antibody-based critical reagents that are used to support ligand binding assays.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Xiangdan</ForeName>
+            <Initials>X</Initials>
+            <Identifier Source="ORCID">0009-0005-6069-3317</Identifier>
+            <AffiliationInfo>
+              <Affiliation>BioAnalytical Sciences, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chang</LastName>
+            <ForeName>Wenping</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Peptide Therapeutics, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Khosraviani</LastName>
+            <ForeName>Mehraban</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>BioAnalytical Sciences, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Phung</LastName>
+            <ForeName>Wilson</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Microchemistry, Proteomics, and Lipidomics, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peng</LastName>
+            <ForeName>Lingling</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Peptide Therapeutics, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cohen</LastName>
+            <ForeName>Sivan</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>BioAnalytical Sciences, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Andrews</LastName>
+            <ForeName>Benjamin T</ForeName>
+            <Initials>BT</Initials>
+            <AffiliationInfo>
+              <Affiliation>BioAnalytical Sciences, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Yonglian</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Antibody Engineering, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Davies</LastName>
+            <ForeName>Christopher W</ForeName>
+            <Initials>CW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Antibody Engineering, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Koerber</LastName>
+            <ForeName>James T</ForeName>
+            <Initials>JT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Antibody Engineering, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Jihong</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>BioAnalytical Sciences, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Song</LastName>
+            <ForeName>Aimin</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Peptide Therapeutics, Genentech, South San Francisco, California 94080, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Bioconjug Chem</MedlineTA>
+        <NlmUniqueID>9010319</NlmUniqueID>
+        <ISSNLinking>1043-1802</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>5</Day>
+          <Hour>17</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>5</Day>
+          <Hour>17</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>5</Day>
+          <Hour>7</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38050929</ArticleId>
+        <ArticleId IdType="doi">10.1021/acs.bioconjchem.3c00421</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37960302</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>11</Month>
+        <Day>15</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>11</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2072-6643</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>15</Volume>
+            <Issue>21</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>Nov</Month>
+              <Day>02</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nutrients</Title>
+          <ISOAbbreviation>Nutrients</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Seven-Month Vitamin D Deficiency Inhibits Gastric Epithelial Cell Proliferation, Stimulates Acid Secretion, and Differentially Alters Cell Lineages in the Gastric Glands.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">4648</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/nu15214648</ELocationID>
+        <Abstract>
+          <AbstractText>Vitamin D (VD) deficiency can result from insufficiency of either light exposure or VD intake. We investigated the biological effects of VD deficiency for 7 months on the mouse gastric glands. Varying degrees of VD deficiency were induced in C57BL/6 mice by keeping them on standard diet with constant-dark conditions (SDD) or VD deficient diet with constant-dark conditions (VDD). Samples of serum, glandular stomach, and gastric contents were collected for LCMS/MS, RT-PCR, immunohistochemistry, and acid content measurements. Both SDD and VDD mice had a significant decline in 25OHVD metabolite, gastric epithelial cell proliferation, and mucin 6 gene expression. These effects were enhanced with the severity of VD deficiency from SDD to VDD. Besides and compared to the control group, SDD mice only displayed a significant increase in the number of zymogenic cells (<i>p</i> ≤ 0.0001) and high expression of the adiponectin (<i>p</i> ≤ 0.05), gastrin (<i>p</i> ≤ 0.0001), mucin 5AC (*** <i>p</i> ≤ 0.001) and the Cyclin-dependent kinase inhibitor 1A (**** <i>p</i> ≤ 0.0001). These phenotypes were unique to SDD gastric samples and not seen in the VDD or control groups. This study suggests that the body reacts differently to diverse VD deficiency sources, light or diet.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Sirajudeen</LastName>
+            <ForeName>Shaima</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0002-6357-4787</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, College of Science, United Arab Emirates University (UAEU), Al Ain 15551, United Arab Emirates.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shah</LastName>
+            <ForeName>Iltaf</ForeName>
+            <Initials>I</Initials>
+            <Identifier Source="ORCID">0000-0002-3739-6083</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Zayed bin Sultan Al Nahyan Center for Health Sciences, United Arab Emirates University (UAEU), Al Ain 15551, United Arab Emirates.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemistry, College of Science, United Arab Emirates University (UAEU), Al Ain 15551, United Arab Emirates.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Karam</LastName>
+            <ForeName>Sherif M</ForeName>
+            <Initials>SM</Initials>
+            <Identifier Source="ORCID">0000-0002-8590-3975</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Zayed bin Sultan Al Nahyan Center for Health Sciences, United Arab Emirates University (UAEU), Al Ain 15551, United Arab Emirates.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Anatomy, College of Medicine and Health Sciences, United Arab Emirates University (UAEU), Al Ain 15551, United Arab Emirates.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Al Menhali</LastName>
+            <ForeName>Asma</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0001-5081-561X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, College of Science, United Arab Emirates University (UAEU), Al Ain 15551, United Arab Emirates.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Zayed bin Sultan Al Nahyan Center for Health Sciences, United Arab Emirates University (UAEU), Al Ain 15551, United Arab Emirates.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>31R138</GrantID>
+            <Agency>United Arab Emirates University</Agency>
+            <Country/>
+          </Grant>
+          <Grant>
+            <GrantID>12S136</GrantID>
+            <Agency>United Arab Emirates University</Agency>
+            <Country/>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>11</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Nutrients</MedlineTA>
+        <NlmUniqueID>101521595</NlmUniqueID>
+        <ISSNLinking>2072-6643</ISSNLinking>
       </MedlineJournalInfo>
       <ChemicalList>
         <Chemical>
-          <RegistryNumber>9FN79X2M3F</RegistryNumber>
-          <NameOfSubstance UI="D008094">Lithium</NameOfSubstance>
-        </Chemical>
-        <Chemical>
-          <RegistryNumber>CK833KGX7E</RegistryNumber>
-          <NameOfSubstance UI="D000661">Amphetamine</NameOfSubstance>
+          <RegistryNumber>1406-16-2</RegistryNumber>
+          <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
         </Chemical>
       </ChemicalList>
       <CitationSubset>IM</CitationSubset>
       <MeshHeadingList>
         <MeshHeading>
-          <DescriptorName UI="D000661" MajorTopicYN="N">Amphetamine</DescriptorName>
-          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
         </MeshHeading>
         <MeshHeading>
           <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
         </MeshHeading>
         <MeshHeading>
-          <DescriptorName UI="D001714" MajorTopicYN="N">Bipolar Disorder</DescriptorName>
-          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
-          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <DescriptorName UI="D014807" MajorTopicYN="Y">Vitamin D</DescriptorName>
         </MeshHeading>
         <MeshHeading>
-          <DescriptorName UI="D003527" MajorTopicYN="N">Cyclothymic Disorder</DescriptorName>
-          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <DescriptorName UI="D019070" MajorTopicYN="N">Cell Lineage</DescriptorName>
         </MeshHeading>
         <MeshHeading>
-          <DescriptorName UI="D003863" MajorTopicYN="N">Depression</DescriptorName>
-          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
-          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
-          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
         </MeshHeading>
         <MeshHeading>
-          <DescriptorName UI="D004347" MajorTopicYN="N">Drug Interactions</DescriptorName>
+          <DescriptorName UI="D014808" MajorTopicYN="Y">Vitamin D Deficiency</DescriptorName>
         </MeshHeading>
         <MeshHeading>
-          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+          <DescriptorName UI="D013270" MajorTopicYN="N">Stomach</DescriptorName>
         </MeshHeading>
         <MeshHeading>
-          <DescriptorName UI="D008094" MajorTopicYN="N">Lithium</DescriptorName>
-          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
-          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+          <DescriptorName UI="D005753" MajorTopicYN="N">Gastric Mucosa</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
         </MeshHeading>
         <MeshHeading>
-          <DescriptorName UI="D009043" MajorTopicYN="N">Motor Activity</DescriptorName>
-          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D019966" MajorTopicYN="N">Substance-Related Disorders</DescriptorName>
-          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
-          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
         </MeshHeading>
       </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+        <Keyword MajorTopicYN="N">apoptosis</Keyword>
+        <Keyword MajorTopicYN="N">gastric acid</Keyword>
+        <Keyword MajorTopicYN="N">parietal cells</Keyword>
+        <Keyword MajorTopicYN="N">proliferation</Keyword>
+        <Keyword MajorTopicYN="N">zymogenic cells</Keyword>
+      </KeywordList>
     </MedlineCitation>
     <PubmedData>
       <History>
-        <PubMedPubDate PubStatus="pubmed">
-          <Year>1979</Year>
-          <Month>1</Month>
-          <Day>1</Day>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>09</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>10</Month>
+          <Day>30</Day>
         </PubMedPubDate>
         <PubMedPubDate PubStatus="medline">
-          <Year>1979</Year>
-          <Month>1</Month>
-          <Day>1</Day>
-          <Hour>0</Hour>
-          <Minute>1</Minute>
+          <Year>2023</Year>
+          <Month>11</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>43</Minute>
         </PubMedPubDate>
-        <PubMedPubDate PubStatus="entrez">
-          <Year>1979</Year>
-          <Month>1</Month>
-          <Day>1</Day>
-          <Hour>0</Hour>
-          <Minute>0</Minute>
-        </PubMedPubDate>
-      </History>
-      <PublicationStatus>ppublish</PublicationStatus>
-      <ArticleIdList>
-        <ArticleId IdType="pubmed">759104</ArticleId>
-        <ArticleId IdType="pii">0010-440X(79)90063-4</ArticleId>
-        <ArticleId IdType="doi">10.1016/0010-440x(79)90063-4</ArticleId>
-      </ArticleIdList>
-    </PubmedData>
-  </PubmedArticle>
-  <PubmedArticle>
-    <MedlineCitation Status="MEDLINE" Owner="NLM">
-      <PMID Version="1">12265</PMID>
-      <DateCompleted>
-        <Year>1977</Year>
-        <Month>02</Month>
-        <Day>24</Day>
-      </DateCompleted>
-      <DateRevised>
-        <Year>2019</Year>
-        <Month>07</Month>
-        <Day>10</Day>
-      </DateRevised>
-      <Article PubModel="Print">
-        <Journal>
-          <ISSN IssnType="Print">0022-3573</ISSN>
-          <JournalIssue CitedMedium="Print">
-            <Volume>28</Volume>
-            <Issue>12</Issue>
-            <PubDate>
-              <Year>1976</Year>
-              <Month>Dec</Month>
-            </PubDate>
-          </JournalIssue>
-          <Title>The Journal of pharmacy and pharmacology</Title>
-          <ISOAbbreviation>J Pharm Pharmacol</ISOAbbreviation>
-        </Journal>
-        <ArticleTitle>Size analysis of metered suspension pressurized aerosols with the Quantimet 720.</ArticleTitle>
-        <Pagination>
-          <MedlinePgn>890-7</MedlinePgn>
-        </Pagination>
-        <Abstract>
-          <AbstractText>A method is described for particle sizing of pressurized metered suspension aerosols by collection in a settling drum followed by microscopic evaluation of the slides with a Quantimet 720 automatic image analyser. The method gives satisfactory representation of the distribution of particles settling to the drum base, and demonstrates the excellent stability and reproducibility between and within aerosol packs for two widely used inhalation products. There is much drug deposition of somewhat finer size distribution on the wall of the drum than on the drum base. In spite of this wall loss, the method gives only slightly higher results for the weight and number mean diameters, than when both wall and base distributions are considered. The Quantimet was found to be suitable for particle sizing salbutamol used in preparing aerosol products.</AbstractText>
-        </Abstract>
-        <AuthorList CompleteYN="Y">
-          <Author ValidYN="Y">
-            <LastName>Hallworth</LastName>
-            <ForeName>G W</ForeName>
-            <Initials>GW</Initials>
-            <AffiliationInfo>
-              <Affiliation>Pharmaceutical Research Department, Allen and Hanburys Research Ltd., Ware, Herts, U.S.A</Affiliation>
-            </AffiliationInfo>
-          </Author>
-          <Author ValidYN="Y">
-            <LastName>Hamilton</LastName>
-            <ForeName>R R</ForeName>
-            <Initials>RR</Initials>
-          </Author>
-        </AuthorList>
-        <Language>eng</Language>
-        <PublicationTypeList>
-          <PublicationType UI="D016428">Journal Article</PublicationType>
-        </PublicationTypeList>
-      </Article>
-      <MedlineJournalInfo>
-        <Country>England</Country>
-        <MedlineTA>J Pharm Pharmacol</MedlineTA>
-        <NlmUniqueID>0376363</NlmUniqueID>
-        <ISSNLinking>0022-3573</ISSNLinking>
-      </MedlineJournalInfo>
-      <ChemicalList>
-        <Chemical>
-          <RegistryNumber>0</RegistryNumber>
-          <NameOfSubstance UI="D000336">Aerosols</NameOfSubstance>
-        </Chemical>
-        <Chemical>
-          <RegistryNumber>0</RegistryNumber>
-          <NameOfSubstance UI="D013535">Suspensions</NameOfSubstance>
-        </Chemical>
-        <Chemical>
-          <RegistryNumber>KGZ1SLC28Z</RegistryNumber>
-          <NameOfSubstance UI="D001507">Beclomethasone</NameOfSubstance>
-        </Chemical>
-        <Chemical>
-          <RegistryNumber>QF8SVZ843E</RegistryNumber>
-          <NameOfSubstance UI="D000420">Albuterol</NameOfSubstance>
-        </Chemical>
-      </ChemicalList>
-      <CitationSubset>IM</CitationSubset>
-      <MeshHeadingList>
-        <MeshHeading>
-          <DescriptorName UI="D000336" MajorTopicYN="Y">Aerosols</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D000420" MajorTopicYN="N">Albuterol</DescriptorName>
-          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D001507" MajorTopicYN="N">Beclomethasone</DescriptorName>
-          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D002626" MajorTopicYN="N">Chemistry, Pharmaceutical</DescriptorName>
-          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D010316" MajorTopicYN="Y">Particle Size</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D013535" MajorTopicYN="N">Suspensions</DescriptorName>
-        </MeshHeading>
-      </MeshHeadingList>
-    </MedlineCitation>
-    <PubmedData>
-      <History>
         <PubMedPubDate PubStatus="pubmed">
-          <Year>1976</Year>
-          <Month>12</Month>
-          <Day>1</Day>
-        </PubMedPubDate>
-        <PubMedPubDate PubStatus="medline">
-          <Year>1976</Year>
-          <Month>12</Month>
-          <Day>1</Day>
-          <Hour>0</Hour>
-          <Minute>1</Minute>
+          <Year>2023</Year>
+          <Month>11</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>43</Minute>
         </PubMedPubDate>
         <PubMedPubDate PubStatus="entrez">
-          <Year>1976</Year>
-          <Month>12</Month>
-          <Day>1</Day>
-          <Hour>0</Hour>
-          <Minute>0</Minute>
+          <Year>2023</Year>
+          <Month>11</Month>
+          <Day>14</Day>
+          <Hour>2</Hour>
+          <Minute>19</Minute>
         </PubMedPubDate>
       </History>
-      <PublicationStatus>ppublish</PublicationStatus>
+      <PublicationStatus>epublish</PublicationStatus>
       <ArticleIdList>
-        <ArticleId IdType="pubmed">12265</ArticleId>
-        <ArticleId IdType="doi">10.1111/j.2042-7158.1976.tb04087.x</ArticleId>
+        <ArticleId IdType="pubmed">37960302</ArticleId>
+        <ArticleId IdType="pii">nu15214648</ArticleId>
+        <ArticleId IdType="doi">10.3390/nu15214648</ArticleId>
+        <ArticleId IdType="pmc">PMC10649607</ArticleId>
       </ArticleIdList>
-    </PubmedData>
-  </PubmedArticle>
-  <PubmedArticle>
-    <MedlineCitation Status="MEDLINE" Owner="NLM">
-      <PMID Version="1">17089</PMID>
-      <DateCompleted>
-        <Year>1977</Year>
-        <Month>07</Month>
-        <Day>23</Day>
-      </DateCompleted>
-      <DateRevised>
-        <Year>2006</Year>
-        <Month>11</Month>
-        <Day>15</Day>
-      </DateRevised>
-      <Article PubModel="Print">
-        <Journal>
-          <ISSN IssnType="Print">0030-932X</ISSN>
-          <JournalIssue CitedMedium="Print">
-            <Volume>16</Volume>
-            <Issue>2</Issue>
-            <PubDate>
-              <Year>1977</Year>
-            </PubDate>
-          </JournalIssue>
-          <Title>Padiatrie und Grenzgebiete</Title>
-          <ISOAbbreviation>Padiatr Grenzgeb</ISOAbbreviation>
-        </Journal>
-        <ArticleTitle>[Clinical and morphological evaluations of the volume of congenitally-dystopic and surgically treated testis].</ArticleTitle>
-        <Pagination>
-          <MedlinePgn>93-9</MedlinePgn>
-        </Pagination>
-        <AuthorList CompleteYN="Y">
-          <Author ValidYN="Y">
-            <LastName>Kleinteich</LastName>
-            <ForeName>B</ForeName>
-            <Initials>B</Initials>
-          </Author>
-          <Author ValidYN="Y">
-            <LastName>Schickedanz</LastName>
-            <ForeName>H</ForeName>
-            <Initials>H</Initials>
-          </Author>
-        </AuthorList>
-        <Language>ger</Language>
-        <PublicationTypeList>
-          <PublicationType UI="D004740">English Abstract</PublicationType>
-          <PublicationType UI="D016428">Journal Article</PublicationType>
-        </PublicationTypeList>
-        <VernacularTitle>Klinische und morphologische Bewertungen des Volumens Kongenital-dystoper und chirurgisch behandelter Hoden</VernacularTitle>
-      </Article>
-      <MedlineJournalInfo>
-        <Country>Germany</Country>
-        <MedlineTA>Padiatr Grenzgeb</MedlineTA>
-        <NlmUniqueID>0401115</NlmUniqueID>
-        <ISSNLinking>0030-932X</ISSNLinking>
-      </MedlineJournalInfo>
-      <CitationSubset>IM</CitationSubset>
-      <MeshHeadingList>
-        <MeshHeading>
-          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D001706" MajorTopicYN="N">Biopsy</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D002675" MajorTopicYN="N">Child, Preschool</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D003456" MajorTopicYN="N">Cryptorchidism</DescriptorName>
-          <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D007223" MajorTopicYN="N">Infant</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D007231" MajorTopicYN="N">Infant, Newborn</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D011183" MajorTopicYN="N">Postoperative Complications</DescriptorName>
-          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D013737" MajorTopicYN="N">Testis</DescriptorName>
-          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
-        </MeshHeading>
-      </MeshHeadingList>
-    </MedlineCitation>
-    <PubmedData>
-      <History>
-        <PubMedPubDate PubStatus="pubmed">
-          <Year>1977</Year>
-          <Month>1</Month>
-          <Day>1</Day>
-        </PubMedPubDate>
-        <PubMedPubDate PubStatus="medline">
-          <Year>1977</Year>
-          <Month>1</Month>
-          <Day>1</Day>
-          <Hour>0</Hour>
-          <Minute>1</Minute>
-        </PubMedPubDate>
-        <PubMedPubDate PubStatus="entrez">
-          <Year>1977</Year>
-          <Month>1</Month>
-          <Day>1</Day>
-          <Hour>0</Hour>
-          <Minute>0</Minute>
-        </PubMedPubDate>
-      </History>
-      <PublicationStatus>ppublish</PublicationStatus>
-      <ArticleIdList>
-        <ArticleId IdType="pubmed">17089</ArticleId>
-      </ArticleIdList>
-    </PubmedData>
-  </PubmedArticle>
-  <PubmedArticle>
-    <MedlineCitation Status="MEDLINE" Owner="NLM">
-      <PMID Version="1">17090</PMID>
-      <DateCompleted>
-        <Year>1977</Year>
-        <Month>07</Month>
-        <Day>29</Day>
-      </DateCompleted>
-      <DateRevised>
-        <Year>2021</Year>
-        <Month>01</Month>
-        <Day>11</Day>
-      </DateRevised>
-      <Article PubModel="Print">
-        <Journal>
-          <ISSN IssnType="Print">0304-3959</ISSN>
-          <JournalIssue CitedMedium="Print">
-            <Volume>2</Volume>
-            <Issue>3</Issue>
-            <PubDate>
-              <Year>1976</Year>
-              <Month>Sep</Month>
-            </PubDate>
-          </JournalIssue>
-          <Title>Pain</Title>
-          <ISOAbbreviation>Pain</ISOAbbreviation>
-        </Journal>
-        <ArticleTitle>A comprehensive treatment approach to chronic low back pain.</ArticleTitle>
-        <Pagination>
-          <MedlinePgn>301-308</MedlinePgn>
-        </Pagination>
-        <ELocationID EIdType="doi" ValidYN="Y">10.1016/0304-3959(76)90007-5</ELocationID>
-        <Abstract>
-          <AbstractText>A comprehensive treatment program for chronic disability related to back disease has been presented. This program has used not only more traditional methods of medical care for the structural disabilities of chronic mechanical back disorders, but has used principles of active patient participation in the improvement process. The patients are educated in the manifestations of pain behavior in the phase II treatment program emphasis on pain sources is downgraded to allow positive reinforcement for healthy behavior to develop. By use of an organized team approach, a significant number of patients can be processed; and an overall reduction in use of alternative medical resources has occurred.</AbstractText>
-        </Abstract>
-        <AuthorList CompleteYN="Y">
-          <Author ValidYN="Y">
-            <LastName>Cairns</LastName>
-            <ForeName>Douglas</ForeName>
-            <Initials>D</Initials>
-            <AffiliationInfo>
-              <Affiliation>Spine Center, Rancho Los Amigos Hospital, 7601 East Imperial Highway, Downey, Calif. 90242</Affiliation>
-            </AffiliationInfo>
-          </Author>
-          <Author ValidYN="Y">
-            <LastName>Thomas</LastName>
-            <ForeName>Lynn</ForeName>
-            <Initials>L</Initials>
-          </Author>
-          <Author ValidYN="Y">
-            <LastName>Mooney</LastName>
-            <ForeName>Vert</ForeName>
-            <Initials>V</Initials>
-          </Author>
-          <Author ValidYN="Y">
-            <LastName>Pace</LastName>
-            <ForeName>Blair J</ForeName>
-            <Initials>BJ</Initials>
-          </Author>
-        </AuthorList>
-        <Language>eng</Language>
-        <PublicationTypeList>
-          <PublicationType UI="D016428">Journal Article</PublicationType>
-        </PublicationTypeList>
-      </Article>
-      <MedlineJournalInfo>
-        <Country>United States</Country>
-        <MedlineTA>Pain</MedlineTA>
-        <NlmUniqueID>7508686</NlmUniqueID>
-        <ISSNLinking>0304-3959</ISSNLinking>
-      </MedlineJournalInfo>
-      <ChemicalList>
-        <Chemical>
-          <RegistryNumber>0</RegistryNumber>
-          <NameOfSubstance UI="D000701">Analgesics, Opioid</NameOfSubstance>
-        </Chemical>
-        <Chemical>
-          <RegistryNumber>362O9ITL9D</RegistryNumber>
-          <NameOfSubstance UI="D000082">Acetaminophen</NameOfSubstance>
-        </Chemical>
-      </ChemicalList>
-      <CitationSubset>IM</CitationSubset>
-      <MeshHeadingList>
-        <MeshHeading>
-          <DescriptorName UI="D000082" MajorTopicYN="N">Acetaminophen</DescriptorName>
-          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D000701" MajorTopicYN="N">Analgesics, Opioid</DescriptorName>
-          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D001416" MajorTopicYN="N">Back Pain</DescriptorName>
-          <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D002908" MajorTopicYN="N">Chronic Disease</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D003191" MajorTopicYN="Y">Comprehensive Health Care</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D006760" MajorTopicYN="Y">Hospitalization</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D007899" MajorTopicYN="N">Leisure Activities</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D008019" MajorTopicYN="N">Life Style</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D010348" MajorTopicYN="N">Patient Care Team</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D010551" MajorTopicYN="N">Personality</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D026741" MajorTopicYN="N">Physical Therapy Modalities</DescriptorName>
-        </MeshHeading>
-        <MeshHeading>
-          <DescriptorName UI="D012054" MajorTopicYN="N">Reinforcement, Psychology</DescriptorName>
-        </MeshHeading>
-      </MeshHeadingList>
-    </MedlineCitation>
-    <PubmedData>
-      <History>
-        <PubMedPubDate PubStatus="pubmed">
-          <Year>1976</Year>
-          <Month>9</Month>
-          <Day>1</Day>
-        </PubMedPubDate>
-        <PubMedPubDate PubStatus="medline">
-          <Year>1976</Year>
-          <Month>9</Month>
-          <Day>1</Day>
-          <Hour>0</Hour>
-          <Minute>1</Minute>
-        </PubMedPubDate>
-        <PubMedPubDate PubStatus="entrez">
-          <Year>1976</Year>
-          <Month>9</Month>
-          <Day>1</Day>
-          <Hour>0</Hour>
-          <Minute>0</Minute>
-        </PubMedPubDate>
-      </History>
-      <PublicationStatus>ppublish</PublicationStatus>
-      <ArticleIdList>
-        <ArticleId IdType="pubmed">17090</ArticleId>
-        <ArticleId IdType="doi">10.1016/0304-3959(76)90007-5</ArticleId>
-        <ArticleId IdType="pii">00006396-197609000-00007</ArticleId>
-      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Gastroenterology. 2020 Feb;158(3):598-609.e5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31589873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Annu Rev Physiol. 1979;41:35-53</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">219762</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anat Rec. 1992 Feb;232(2):231-46</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1546802</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Virchows Arch. 2021 Jul;479(1):169-178</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33515301</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dig Dis Sci. 2004 Oct;49(10):1598-606</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15573912</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Nutr. 2016 Jan;146(1):70-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26609169</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Oncol. 2019 Apr;54(4):1409-1421</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30720090</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gut. 2006 Mar;55(3):327-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16216827</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Pharmacol. 2016 Dec;31:76-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27750091</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endocrinol. 2021 Jan;248(1):87-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33112799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Clin Invest. 2008 Jul;118(7):2459-70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18535670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neurogastroenterol Motil. 2016 May;28(5):620-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26691223</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gastroenterology. 2008 Feb;134(2):511-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18242217</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Histochem Cytochem. 2009 May;57(5):457-67</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19153195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arch Dis Child. 2018 Sep;103(9):901-906</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29661756</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Immunol. 2018 Oct 30;9:2484</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30459766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Exp Dermatol. 2020 Sep;29(9):876-884</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32654294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Clin Nutr. 2020 Nov;74(11):1498-1513</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31959942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2015 Jul 27;10(7):e0133882</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26214517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Mol Gastroenterol Hepatol. 2017 Feb 14;3(3):323-330</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28462374</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anat Rec. 1993 Jun;236(2):259-79</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8338232</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ann Epidemiol. 2009 Feb;19(2):73-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18329892</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Physiol Rev. 2020 Apr 1;100(2):573-602</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31670611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Endocrinol Invest. 2000 Sep;23(8):493-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11021763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Life Sci. 2022 Jan 15;289:120193</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34864062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Physiol. 2018 Sep;596(17):3861-3867</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29427515</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Pharm Des. 2020;26(21):2492-2496</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32156230</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Mol Sci. 2022 Jun 15;23(12):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35743124</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Development. 2016 Feb 15;143(4):554-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26884394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dermatoendocrinol. 2013 Jan 1;5(1):51-108</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24494042</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iran Biomed J. 2018 Apr 30;22(4):217-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29706061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Signal. 2013 Dec;25(12):2362-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23896121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Molecules. 2021 Aug 26;26(17):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34500616</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Pathol. 2003 Jun;162(6):1905-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12759247</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Mol Sci. 2022 May 11;23(10):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">35628183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Physiol. 1999 Jul 15;518 ( Pt 2):315-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10381581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clin Biochem. 2014 Jun;47(9):816-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24462965</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Endocrinol Metab Clin North Am. 2010 Jun;39(2):255-69, table of contents</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20511050</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Am J Pathol. 2010 Sep;177(3):1514-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20709804</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World J Gastroenterol. 2010 Oct 7;16(37):4634-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20872962</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saudi Pharm J. 2015 Nov;23(6):689-97</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26702265</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Medicina (Kaunas). 2019 Aug 28;55(9):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31466220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Infect Immun. 2015 Dec 07;84(2):562-72</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26644382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yale J Biol Med. 1992 Nov-Dec;65(6):577-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1341065</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2000 Oct 19;407(6806):908-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11057670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stem Cells. 2003;21(3):322-36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12743327</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Middle East J Dig Dis. 2012 Oct;4(4):211-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24829659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Open Life Sci. 2018 Apr 10;13:64-70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33817069</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int J Mol Sci. 2020 Jan 11;21(2):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31940808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Womens Health (Larchmt). 2012 Oct;21(10):1066-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22731629</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Endocrinol Metab Clin North Am. 2013 Jun;42(2):319-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23702404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Med Rep. 2013 Jun;7(6):1751-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23563575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
     </PubmedData>
   </PubmedArticle>
 </PubmedArticleSet>
