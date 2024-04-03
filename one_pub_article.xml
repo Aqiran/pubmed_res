@@ -188,7 +188,7 @@
             <ForeName>Shanon L</ForeName>
             <Initials>SL</Initials>
             <AffiliationInfo>
-              <Affiliation>Grand Forks Human Nutrition Research Center, Agricultural Research Service, U.S. Department of Agriculture, Grand Forks, ND 58203, USA.</Affiliation>
+              <Affiliation>Grand Forks Human Nutrition Research Center, Agricultural Research Service, U.S. Department of Agriculture, Grand Forks, ND 58203</Affiliation>
             </AffiliationInfo>
           </Author>
           <Author ValidYN="Y">
@@ -1533,6 +1533,133 @@
           </ArticleIdList>
         </Reference>
       </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">37963117</PMID>
+      <DateCompleted>
+        <Year>2023</Year>
+        <Month>11</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2023</Year>
+        <Month>11</Month>
+        <Day>22</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1537-5323</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>202</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Month>11</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The American naturalist</Title>
+          <ISOAbbreviation>Am Nat</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A Time for Every Purpose: Using Time-Dependent Sensitivity Analysis to Help Understand and Manage Dynamic Ecological Systems.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>630-654</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1086/726143</ELocationID>
+        <Abstract>
+          <AbstractText>AbstractSensitivity analysis is often used to help understand and manage ecological systems by assessing how a constant change in vital rates or other model parameters might affect the management outcome. This allows the manager to identify the most favorable course of action. However, realistic changes are often localized in time-for example, a short period of culling leads to a temporary increase in the mortality rate over the period. Hence, knowing when to act may be just as important as knowing what to act on. In this article, we introduce the method of time-dependent sensitivity analysis (TDSA) that simultaneously addresses both questions. We illustrate TDSA using three case studies: transient dynamics in static disease transmission networks, disease dynamics in a reservoir species with seasonal life history events, and endogenously driven population cycles in herbivorous invertebrate forest pests. We demonstrate how TDSA often provides useful biological insights, which are understandable on hindsight but would not have been easily discovered without the help of TDSA. However, as a caution, we also show how TDSA can produce results that mainly reflect uncertain modeling choices and are therefore potentially misleading. We provide guidelines to help users maximize the utility of TDSA while avoiding pitfalls.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ng</LastName>
+            <ForeName>Wee Hao</ForeName>
+            <Initials>WH</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Myers</LastName>
+            <ForeName>Christopher R</ForeName>
+            <Initials>CR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McArt</LastName>
+            <ForeName>Scott</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ellner</LastName>
+            <ForeName>Stephen P</ForeName>
+            <Initials>SP</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>09</Month>
+          <Day>29</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Am Nat</MedlineTA>
+        <NlmUniqueID>2984688R</NlmUniqueID>
+        <ISSNLinking>0003-0147</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D017753" MajorTopicYN="Y">Ecosystem</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065928" MajorTopicYN="Y">Forests</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013995" MajorTopicYN="N">Time</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">dynamic models</Keyword>
+        <Keyword MajorTopicYN="N">management</Keyword>
+        <Keyword MajorTopicYN="N">optimal control</Keyword>
+        <Keyword MajorTopicYN="N">sensitivity analysis</Keyword>
+        <Keyword MajorTopicYN="N">spillover</Keyword>
+        <Keyword MajorTopicYN="N">time-dependent sensitivity</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2023</Year>
+          <Month>11</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>45</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2023</Year>
+          <Month>11</Month>
+          <Day>14</Day>
+          <Hour>18</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2023</Year>
+          <Month>11</Month>
+          <Day>14</Day>
+          <Hour>13</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">37963117</ArticleId>
+        <ArticleId IdType="doi">10.1086/726143</ArticleId>
+      </ArticleIdList>
     </PubmedData>
   </PubmedArticle>
 </PubmedArticleSet>
