@@ -55,7 +55,7 @@ def extract_publication_date(article):
     month = pub_date_element.findtext("Month", "")
     day = pub_date_element.findtext("Day", "")
     medline_date = article.findtext("./MedlineCitation/MedlineDate", "")
-    if year and month and day:
+    if year or month or day:
         return f"{year}-{month}-{day}"
     elif medline_date:
         return medline_date
@@ -65,7 +65,7 @@ def extract_publication_date(article):
 def extract_publication_types(article):
     publication_types = article.findall(".//PublicationTypeList/PublicationType")
     research_funding = [pt.text for pt in publication_types if 'Research Support' in pt.text]
-    return ", ".join(research_funding)
+    return ", ".join(research_funding) 
 
 def extract_us_articles(xml_files):
     us_articles = []
