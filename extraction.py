@@ -65,7 +65,7 @@ def extract_publication_date(article):
 def extract_publication_types(article):
     publication_types = article.findall(".//PublicationTypeList/PublicationType")
     research_funding = [pt.text for pt in publication_types if 'Research Support' in pt.text]
-    return ", ".join(research_funding) 
+    return "| ".join(research_funding) 
 
 def extract_us_articles(xml_files):
     us_articles = []
