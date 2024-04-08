@@ -41,12 +41,17 @@ def extract_article_info(article):
     journal_title = article.findtext(".//Article/Journal/Title", "")
     publication_date = extract_publication_date(article)
     authors = extract_authors(article)
+    grants = extract_grants(article)
+    research_funding = extract_publication_types(article)
+    
     return {
         "PubMedID": pubmed_id,
         "Article_Title": article_title,
         "Journal_Title": journal_title,
         "Publication_Date": publication_date,
-        "Authors": authors
+        "Authors": authors,
+        "Research_Funding": research_funding,
+        "Grants": grants  # Add grants here
     }
 
 def extract_publication_date(article):
@@ -65,7 +70,12 @@ def extract_publication_date(article):
 def extract_publication_types(article):
     publication_types = article.findall(".//PublicationTypeList/PublicationType")
     research_funding = [pt.text for pt in publication_types if 'Research Support' in pt.text]
-    return "| ".join(research_funding) 
+    return "| ".join(research_funding)
+
+def extract_grants(article):
+    grants = article.findall(".//GrantList/Grant")
+    grant_info = [grant.findtext("Agency", "") + ", " + grant.findtext("Country", "") for grant in grants]
+    return "| ".join(grant_info)
 
 def extract_us_articles(xml_files):
     us_articles = []
@@ -79,7 +89,6 @@ def extract_us_articles(xml_files):
             for affiliation in affiliations:
                 if has_us_affiliation(affiliation) or has_state_name(affiliation) or has_zipcode(affiliation):
                     article_info = extract_article_info(article)
-                    article_info["Research_Funding"] = extract_publication_types(article)
                     us_articles.append(article_info)
                     break  # Break loop if US affiliation found
 
@@ -87,7 +96,7 @@ def extract_us_articles(xml_files):
 
 def store_articles_to_csv(articles, csv_file):
     with open(csv_file, mode='w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ["PubMedID", "Article_Title", "Journal_Title", "Publication_Date", "Authors", "Research_Funding"]
+        fieldnames = ["PubMedID", "Article_Title", "Journal_Title", "Publication_Date", "Authors", "Research_Funding", "Grants"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         # Write the header to the CSV file
@@ -107,7 +116,9 @@ if __name__ == "__main__":
     xml_files = ["one_pub_article.xml"]
 
     # Extract articles with US affiliation
-    us_articles = extract_us_articles(xml_files)
+    us_articles = extract_us_articles(xml_files
+
+)
 
     # Store articles to CSV
     store_articles_to_csv(us_articles, csv_file_path)
